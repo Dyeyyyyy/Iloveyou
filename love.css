@@ -61,7 +61,7 @@ body {
     #letter {
   
       position: absolute;
-      margin-top:-200px;
+      margin-top:-150px;
       top: 50%;
       left: 50%;
       transform: translate(-50%, 20px);
@@ -89,7 +89,7 @@ body {
     }
     
     #cute {
-      width:100px;
+      width:50px;
     }
   
     
