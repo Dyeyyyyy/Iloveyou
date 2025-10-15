@@ -7,8 +7,6 @@ body {
 
 #letter {
     position: absolute;
-    width: 300px;
-    min-height: 300px;
     max-height: 80vh;
     overflow-y: auto;
     
@@ -83,7 +81,7 @@ body {
 }
 
 .move-down {
-    transform: translate(-50%, 400px);
+    transform: translate(-50%, 500px);
 }
 
 .heart > img {
